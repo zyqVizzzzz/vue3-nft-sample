@@ -1,0 +1,15 @@
+{
+	"attributes": [
+		{
+			"trait_type": "Breed",
+			"value": "Maltipoo"
+		},
+		{
+			"trait_type": "Eye color",
+			"value": "Mocha"
+		}
+	],
+	"description": "A Ghost man",
+	"image": "https://gateway.pinata.cloud/ipfs/QmSnVy4jcHn5uYSL91vc1SfC3Wpom4d3BGdf4SD9cn5Yfy",
+	"name": "Ramses"
+}
